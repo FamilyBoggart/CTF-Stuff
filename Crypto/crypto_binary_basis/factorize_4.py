@@ -22,8 +22,8 @@ firstnumber = firstnumber + work * my_id
 final_number = firstnumber + work
 
 #Worked in id : 3/10
-my_checkpoints = ""
-#firstnumber = my_checkpoints
+my_checkpoints = 476395313689313848848724450412515496036
+firstnumber = my_checkpoints
 
 #Run my part
 checkpoints = firstnumber
